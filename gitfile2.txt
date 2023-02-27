@@ -1,2 +1,10 @@
 This is the list of devops tools used in organizations:
+Docker
+Terraform
+maven
+git
+Ansible
+Sonarqube
+Nexus
+Jenkins
 
