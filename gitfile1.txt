@@ -1,1 +1,2 @@
 This is the first file in our git project.
+Another line added to file.
