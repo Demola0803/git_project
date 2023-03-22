@@ -8,3 +8,4 @@ Sonarqube
 Nexus
 Jenkins
 Promitius
+Maven
